@@ -82,7 +82,8 @@ private:
 		//162523000
 		//162548000
 		//858450000
-		858752000
+		//858752000
+    476512500
 	};
 	rf::Frequency frequency_step_ { 25000 };
 	bool rf_amp_ { true };
